@@ -5,6 +5,8 @@
 **NOTE:**
 Username Sniper was made for educational purposes, therefor all consequences caused by your actions are **your** responsibility and accountability.
 
+![image](https://user-images.githubusercontent.com/99873347/198900727-6ee6c931-815c-46e2-a95c-589de1f8e36c.png)
+
 ---
 ## <a id="menu"></a>🔱 » Menu
 
